@@ -1,8 +1,8 @@
 # pinterest-homepage-clone 
 <h1 align="center">
-UI Clone - Google (Responsive Homepage)
+UI Clone - Pinterest (Homepage)
 </h1>
-<p align="center"> Responsive <a href="https://google.com">Google Homepage</a> made with HTML and CSS for study purposes.</p>
+<p align="center"> <a href="https://br.pinterest.com/">Pinterest Homepage</a> Made with HTML, SCSS and JS for study purposes.</p>
 <p align="center"> <a href="https://merielylima.github.io/pinterest-homepage-clone/" target="_blank"> Click here</a> to see the result.</p>
 <p align="center"> Or access https://merielylima.github.io/pinterest-homepage-clone/.</p>
  </a>
