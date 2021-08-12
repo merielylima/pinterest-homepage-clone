@@ -6,11 +6,12 @@ UI Clone - Pinterest (Homepage)
 <p align="center"> <a href="https://merielylima.github.io/pinterest-homepage-clone/" target="_blank"> Click here</a> to see the result.</p>
 <p align="center"> Or access https://merielylima.github.io/pinterest-homepage-clone/.</p>
  </a>
-</p>
-
+</p> 
 
 ## Resources
-- [x] HTML, SCSS and JS
+- [x] HTML
+- [x] SCSS
+- [x] JavaScript
 ## Start Dev Environment for VSCode
 
 1. Open project folder in `VSCode`
